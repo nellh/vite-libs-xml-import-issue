@@ -1,0 +1,18 @@
+{
+  "name": "vite-asset-import-meta-url-bug",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "@libs/xml": "npm:@jsr/libs__xml@^5.4.14",
+    "jsr": "^0.13.1"
+  }
+}
